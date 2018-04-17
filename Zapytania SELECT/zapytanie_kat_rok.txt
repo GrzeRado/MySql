@@ -1,0 +1,1 @@
+SELECT * FROM pytania where kategoria="programowanie"; rok=2009

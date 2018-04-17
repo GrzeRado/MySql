@@ -1,0 +1,3 @@
+SELECT * FROM pytania where kategoria="programowanie" or rok=2009
+
+OR = suma (alternatywa)

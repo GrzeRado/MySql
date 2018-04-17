@@ -1,0 +1,9 @@
+SELECT * FROM pytania ORDER BY tresc ASC
+
+order = porzadek; order by = uporz¹dkuj wg
+
+ASC = ascending (rosn¹co)
+
+DESC = descending (malej¹co)
+
+domyœlnie ORDER BY tresc.... sortuje rosn¹co

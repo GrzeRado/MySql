@@ -1,0 +1,1 @@
+SELECT tresc, odpa, odpb, odpc FROM pytania where rok=2010
